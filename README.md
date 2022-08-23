@@ -1,2 +1,2 @@
 # 안녕하세요, 유탕입니다.
-[![utang's GitHub stats](https://github-readme-stats.vercel.app/api?username=utang7750&show_icons=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![utang's GitHub stats](https://github-readme-stats.vercel.app/api?username=utang7750&show_icons=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
